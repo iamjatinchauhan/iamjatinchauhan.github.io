@@ -1,2 +1,5 @@
-# [mrjatinchauhan.github.io](https://mrjatinchauhan.github.io)
-Personal Portfolio Website
+# [Portfolio](https://mrjatinchauhan.github.io)
+
+**Personal Portfolio Website**
+
+![View](./img/shareImage.png)
