@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrjatinchauhan.github.io/sitemap.xml
